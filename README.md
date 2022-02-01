@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Lokesh kirad from Neemuch,India
 - 👀 I’m interested in Cloud computing & Full-Stack Web Developement 
-- Former Student of University Of Hyderabad , Hyderabad , India 
+- Former Student of Hyderabad Central University , Hyderabad , India 
 - Associate Software Engineer At Jocata Financial Advisory & Technology ,Hyderabad ,INDIA 🇮🇳 
