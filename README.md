@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Lokesh kirad from Neemuch,India
 - 👀 I’m interested in Cloud computing & Full-Stack Web Developement 
-- Former Student of Hyderabad Central University , Hyderabad , India 
-- Associate Software Engineer At Jocata Financial Advisory & Technology ,Hyderabad ,INDIA 🇮🇳 
+- My Highest qualification is ( M.C.A ) Master of Computer Applications from Hyderabad Central University , Hyderabad , India . http://acad.uohyd.ac.in/
+- Currently Working as a Associate Software Engineer since March 2021 @ Jocata Financial Advisory & Technology ,Hyderabad ,INDIA 🇮🇳 https://jocata.com/
