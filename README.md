@@ -2,4 +2,4 @@
 -  Languague Known : Hindi , English .
 - 👀 I’m interested in Cloud computing & Full-Stack Web Developement.
 - My Highest qualification is ( M.C.A ) Master of Computer Applications (July-2018 to June - 2021 ) from Hyderabad Central University , Hyderabad , INDIA . http://acad.uohyd.ac.in/
-- Currently working as an Associate Software Engineer (Java Backend Developer) since August 2021 at Jocata Financial Advisory & Technology Services Pvt. Ltd. , Hyderabad ,INDIA . 🇮🇳 https://jocata.com/
+- Check out my Linkedin Profile : https://www.linkedin.com/in/lokeshkk/
