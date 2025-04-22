@@ -19,6 +19,6 @@ I’m Lokesh Kirad, from Neemuch District, Madhya Pradesh, India. I am passionat
 
  Connect with Me:
 - [LinkedIn Profile](https://www.linkedin.com/in/lokesh2710/)  
-- [Know more](http://lokeshk.kpscyberinfusion.com/)
+- [Know more](https://lokeshk.kpscyberinfusion.com/)
 
 I look forward to exploring opportunities in cloud computing and full-stack web development. Let’s connect and collaborate!
